@@ -1,10 +1,13 @@
 ---
-title: "I'm a Freelance Interactive Art Director Based In France. Focusing Accross Branding And Identity"
-image: "images/author.jpg"
-description: "This is meta description."
-draft: false
----
+title: About Jean Rueda
+image: images/author.jpg
+description: I was born in Caracas, Venezuela. I’m a self-taught photographer and
+  developed a wide variety of photographic productions since my beginnings in 1998
+  when I worked to Domingo Cabrera, a reknowned photographer in Venezuela. In 2003
+  I moved to Spain where started working on my own as a freelance photographer. I’m
+  currently based in Italy.
 
+---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi, posuere ultrices tempus. Feugiat consequat suspendisse laoreet vitae enim adipiscing cursus. Duis nunc vitae tincidunt sed nibh id. Egestas erat consequat, ornare etiam donec faucibus. Lorem ut enim nunc, senectus adipiscing sed. Lobortis commodo aliquet pulvinar molestie faucibus diam. Semper porttitor justo, et dictum.
 
 <br>
