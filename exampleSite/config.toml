@@ -3,7 +3,7 @@ disqusShortname = ""
 languageCode = "en-us"
 languageName = "En"
 paginate = "5"
-theme = "persian"
+theme = "Jean Rueda Photography"
 title = "Jean Rueda Photography"
 [markup.goldmark.renderer]
 unsafe = true
